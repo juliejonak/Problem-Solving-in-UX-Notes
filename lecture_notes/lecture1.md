@@ -147,6 +147,30 @@ Mind maps consist of tasks, words, concepts, or other related ideas using a grap
 
 ## Storyboarding
 
+What is storyboarding in the context of UX design?
+
+Storyboarding is a technique that UX designers may utilize to help visualize a sequential story, from beginning to end. 
+
+Storyboarding was popularized by the Walt Disney studio in the 1920s. Walt Disney and company used the storyboard to help understand the basics of a story before building it.
+
+<br>
+
+Storyboards are useful to UX designers because they help us, and others involved in the project, visualize a story before we actually go about building something. 
+
+As we’ve all heard, a picture is worth 1,000 words and storyboards are no exception. 
+
+By visualizing our story before creating it, we’re able to showcase content in a way that simply can’t be done through words. Visualizations also tend to increase engagement. Who doesn’t love a good story?
+
+<br>
+
+In UX design specifically, storyboards are used to showcase a user’s experience within a product. 
+
+It helps us understand how someone can use our product over time. UX design is about approaching design with a human-centered mindset. Stories illustrate this concept perfectly. 
+
+Through the creation of a storyboard, we’re thinking about the user before anything else. Storyboards also lend themselves well to an iterative approach. 
+
+Creating a storyboard helps us clearly articulate, and often see the faults in, the stories that we create about our users and products.
+
 <br>
 <br>
 
