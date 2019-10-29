@@ -23,7 +23,7 @@ k. [](#) <br>
 
 ## Additional Resources
 
-#### Pre-Class Videos
+#### Pre-Class Links
 
 [Brainstorming, Braindumping, Brainwriting and Brainwalking](https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-brainstorming-braindumping-brainwriting-and-brainwalking): an article from Interaction Design Foundation on generating ideas.  
 
@@ -38,7 +38,8 @@ k. [](#) <br>
 #### Other Cool Links
 
 
-
+<br>
+<br>
 
 ## Assignment
  
@@ -65,3 +66,93 @@ Your Team Lead is looking for an update on your work. Write a summary that expla
 - Submit one PNG for each of your storyboards (at least 2 PNGs).
 
 <br>
+<br>
+
+## Brainstorming
+
+What is brainstorming in the context of UX, and why is it important?
+
+
+Let’s begin our creative journey in unit 2, understanding what brainstorming is and why it’s essential. 
+
+Brainstorming is the act of producing ideas or solving problems. As UX designers, this is immensely important as the bulk of our jobs revolve around ideating to solve problems, testing those ideas to see if our ideas work, and then iterating on a solution.
+
+Brainstorming is something that can be done alone or in a group, and there is a lot of debate around which is more effective. 
+
+Regardless of how you conduct your brainstorming, it’s good to understand why brainstorming is so essential. 
+
+First, new ideas. Brainstorming helps us come up with new ideas for solutions. 
+
+Second, it helps us work through problems. To truly understand how to solve a problem, you must first understand the problem inside out. 
+
+Third and finally, it helps improve creative thinking. 
+
+As a UX designer, you’ll spend a significant amount of time thinking creatively about a variety of things. As with any skill, the more your practice creative problem solving through brainstorming, the better you’ll become. 
+
+For the purposes of this objective, I’d like to talk about how you can think about and ultimately conduct brainstorming on your own.
+
+Here is an outline of the key rules of brainstorming:
+
+<br>
+
+### Time limiting
+
+Brainstorming, or idea generation should happen in space where you’re free to think up and generate wild ideas. This can be intimidating and one of the ways to overcome this to set a time limit. When a time limit is set, it’s your goal to come up with as many ideas as possible within that time limit. 
+
+For example, if your goal is to come up with a new home page design, give yourself a maximum of 15 minutes to come up with 10 radical ideas. Your goal is to keep the time limit short and focus on hitting the minimum number of ideas.
+
+<br>
+
+### Understand the problem
+
+This may seem obvious, but you always want to begin your brainstorming sessions with a problem statement. This will ensure that your outcomes are focused on a specific goal. Brainstorming sessions should be focused on only one goal at a time. Staying on topic is of the utmost importance. 
+
+Remember, you can have as many brainstorming sessions as you like, but keep each one focused on only one issue.
+
+<br>
+
+### Defer judgement and self-censoring
+
+Judging ideas during a brainstorming session can not only ruin the mood but keep other people from participating. If you’re brainstorming alone, self-censoring can pose a similar problem. 
+
+Self-censoring occurs when you stop yourself from writing down or acting on an idea in a brainstorming session for fear of it not being good enough. 
+
+Remember, brainstorming is all about generating unique ideas. Often, these ideas may not be the answer, but can get your and your team closer to the answer by looking at the problem through a different lens. You want to allow yourself, and your participants, to feel comfortable generating unusual ideas.
+
+<br>
+
+### Quantity of quality
+
+While brainstorming, you want to generate as many ideas as possible. The more ideas that you create, the more mental connections you will make, and the more likely you are to come up with a reliable solution. Remember ‘quantity breeds quality.’
+
+<br>
+
+### Build on other ideas
+
+As fun as it is to generate wild ideas, it’s important to remember that not all opinions need to stand alone. If you or another team member already created a unique concept, you can use that idea as an opportunity to build from. 
+
+Part of the reason that brainstorming works so well is that novel ideas can often trigger different ways of thinking. Embrace the associated nature of brainstorming and take advantage of everything at your disposal. This will not only help to continue the flow of ideas but will also stop you from getting trapped by your own ways of thinking.
+
+<br>
+
+### Mind Mapping
+
+Creating a mind map is one method of brainstorming independently. A mind map is a way to organize thoughts organically and structure them in a visual way to help with analysis and recall. 
+
+Mind maps consist of tasks, words, concepts, or other related ideas using a graphical layout. When creating a mind map, you begin with a central idea of topic, and build off of it. There are several different types of software that can aid you in the creation of your mind map.
+
+<br>
+<br>
+
+
+## Storyboarding
+
+<br>
+<br>
+
+
+## Creating a Storyboard
+
+<br>
+<br>
+
