@@ -177,6 +177,66 @@ Creating a storyboard helps us clearly articulate, and often see the faults in, 
 
 ## Creating a Storyboard
 
+Most importantly, it’s not necessary to know how to draw well to create a storyboard. Storyboards can be hand-drawn or created digitally. 
+
+Several applications can help us develop storyboards without hand-drawing if you prefer. The structure of the story is the most essential aspect of storyboard creation.
+
+The first thing we must consider is the structure of the story. Several aspects are essential to consider before setting out on our journey of storyboard creation. Our 3 primary considerations should be…
+
+<br>
+
+1. Character  
+2. Scene  
+3. Plot  
+
+<br>
+
+Let’s discuss each of these 3 considerations in a little more depth.
+
+#### Character 
+
+We’ve all created personas at this point. The character in your story will be your persona. At this point, you likely already have the bulk of your persona fleshed out. 
+
+For example, what your persona looks like, their behaviors, expectations, and decisions that they may make. If you don’t have this content created yet, now is the time to do it. 
+
+It’s vital that you understand how your character will be thinking, acting, and behaving throughout your storyboard creation process.
+
+<br>
+
+#### Scene
+
+The scene is significantly more straightforward. Where will your persona be throughout this story? This should be a real place that your persona will actually encounter. 
+
+Remember, we want to make our storyboards as realistic as possible.
+
+<br>
+
+#### Plot
+
+Finally is the plot. This is likely the first thing you started considering while thinking about your storyboard. 
+
+Remember that all good stories have a structure. You want a definite beginning, middle, and end. This is the narrative that you’ll be telling. 
+
+The beginning of the plot will start with a trigger and end with a solution or a problem that your character needs to solve.
+
+<br>
+
+There are often important points that are overlooked when creating a storyboard. Remember, our goal is to capture the hearts and minds of our audience in a way that aligns with the problem we’re trying to solve. In that vein, remember to think about the following points…
+
+<br>
+
+1. Authenticity  
+2. Simplicity  
+3. Emotion  
+
+<br>
+
+We want the story to be authentic. By authentic, we want the story to be transparent, honest, and resonate with what we’re creating. An unauthentic story is easy to spot. Remember to keep it real.
+
+We also want our story to be simple. It’s easy to see the value in simple stories. Only include elements that directly build on the story.
+
+Finally, we want our story to contain emotion. This will drive home the value of our product and the state that our user is in. How does our character feel throughout the process? Remember to illustrate this in your story clearly.
+
 <br>
 <br>
 
