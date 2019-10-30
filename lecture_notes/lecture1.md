@@ -37,6 +37,17 @@ k. [](#) <br>
 
 #### Other Cool Links
 
+[The Design Sprint by Jake Knapp](https://www.thesprintbook.com/how): How to Solve Big Problems and Test New Ideas in Just Five Days  
+
+[MindMeister](https://www.mindmeister.com), brainstorm organizational tool, but limited to only 3 maps on the free plan.
+
+[Draw.io](https://www.draw.io/) is a free mind mapping software.
+
+[Mindly](http://www.mindlyapp.com/) is a free mind mapping software for maps under 200 elements, with the bonus of working on mobile devices too, not just the browser.
+
+[UX Storyboard Creation for Beginners](https://uxstudioteam.com/ux-blog/ux-storyboard/)
+
+[Scenes](https://experience.sap.com/skillup/scenes-new-method-tool-create-storyboards/): SAP's printable storyboarding tool with pre-made empty illustrations.
 
 <br>
 <br>
@@ -64,6 +75,8 @@ Your Team Lead is looking for an update on your work. Write a summary that expla
 
 - Submit one PNG for each of your mind-maps (5 PNGs in total).
 - Submit one PNG for each of your storyboards (at least 2 PNGs).
+
+The rubric can be found [here](https://docs.google.com/spreadsheets/d/1tqWCsi3CFeHZYtqLY5HbOXbGVIJCBJu4m8Q3B-tQ3kc/edit?usp=sharing).
 
 <br>
 <br>
@@ -143,6 +156,10 @@ Mind maps consist of tasks, words, concepts, or other related ideas using a grap
 
 <br>
 <br>
+
+![Mind Mapping Example](../images/BrainstormExample.png "Mind Mapping Example")
+
+![Mind Mapping Example](../images/BrainstormExample2.png "Mind Mapping Example")
 
 
 ## Storyboarding
@@ -238,5 +255,7 @@ We also want our story to be simple. It’s easy to see the value in simple stor
 Finally, we want our story to contain emotion. This will drive home the value of our product and the state that our user is in. How does our character feel throughout the process? Remember to illustrate this in your story clearly.
 
 <br>
-<br>
 
+Storyboards are like a cross between user flows and journey maps, where we provide more context, the users' emotions, and a storytelling flow.
+
+<br>
