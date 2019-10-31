@@ -8,15 +8,9 @@ Table of Contents:
 
 a. [Additional Resources](#Additional-Resources) <br>  
 b. [Asssignment](#Assignment) <br>  
-c. [](#) <br>  
-d. [](#) <br>  
-e. [](#) <br>  
-f. [](#) <br>  
-g. [](#) <br>  
-h. [](#) <br>  
-i. [](#) <br>  
-j. [](#) <br>  
-k. [](#) <br>  
+c. [Brainstorming](#Brainstorming) <br>  
+d. [Storyboarding](#Storyboarding) <br>  
+e. [Creating a Storyboard](#Creating-a-Storyboard) <br>  
 
 <br>
 
@@ -33,6 +27,8 @@ k. [](#) <br>
 
 [Designing Experiences for UX9 with Alec Davis](https://youtu.be/uVCT-x_0EtU)  
 
+[Designing Experiences for UXPT3 with Corey Nelson](https://youtu.be/KMcI0YfAKt8)  
+
 <br>
 
 #### Other Cool Links
@@ -48,6 +44,8 @@ k. [](#) <br>
 [UX Storyboard Creation for Beginners](https://uxstudioteam.com/ux-blog/ux-storyboard/)
 
 [Scenes](https://experience.sap.com/skillup/scenes-new-method-tool-create-storyboards/): SAP's printable storyboarding tool with pre-made empty illustrations.
+
+[Mind Map User Tasks](https://www.uxbooth.com/articles/stuck-in-the-details-mind-map-user-tasks/)  
 
 <br>
 <br>
