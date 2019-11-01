@@ -88,3 +88,36 @@ use that system? How much could you save if it wasn’t so complicated to use?)
 <br>
 <br>
 
+## Organizing content
+
+Designing a coherent, intuitive IA is a challenging process. Before we begin, we need to understand our users’ information-seeking needs and behaviors. 
+
+Let’s start with their information needs first. To understand them, we need to ask ourselves: when a user comes to a website to find something, what does she really want? What are her information needs?
+
+We can break these down into four distinct seeking rationales.
+
+- Known-item seeking is when the user has a question that can be immediately answered when found.  
+
+- Exploratory seeking is when users don’t really know what they’re looking for, so they hope whatever ambles into their search will be good enough.  
+
+- Exhaustive research is when users will leave no stone unturned to learn new information about a topic.  
+
+- Read later is when users have seen content before, and they’re looking for it again.  
+
+<br>
+
+Once we understand why they’re looking for information, we can ask ourselves: how do website users find information, or what are their information-seeking behaviors? 
+
+They might enter queries in search systems, browse from link to link, and ask humans for help (through email, chat interfaces, and so forth). 
+
+Searching, browsing, and asking are all methods for finding, and are the basic building blocks of information-seeking behavior.
+
+To understand and build our IAs, we rely on card-sorting to keep track of discrete units of our product in order to test different organizational models. 
+
+Once we understand how users interpret our terminology and groupings, we progress to site mapping and content audits to logically present our product’s IA. Along the way, we can continue to ensure our IAs are usable by conducting evaluations of their efficacy.
+
+Building an IA from scratch or improving an existing one is an enormous undertaking. Not only does it require substantial efforts, but the stakes are also high because it’ll serve as the basis for the rest of your user experience. That said, with a strong understanding of the fundamentals, we can iterate through even the most convoluted systems and design an intuitive information architecture.
+
+<br>
+<br>
+
