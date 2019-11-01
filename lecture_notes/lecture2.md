@@ -28,6 +28,17 @@ k. [](#) <br>
 
 #### Pre-Class Videos
 
+[Information Architecture UX9 with Alec Davis](https://youtu.be/0KmfQt0YqiM)
+
+[Card Sorting](https://www.nngroup.com/articles/card-sorting-definition/) by the Norman Nielsen Group.
+
+[Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html) from Usability.gov.
+
+[Sitemaps - The Beginner's Guide](https://theuxreview.co.uk/sitemaps-the-beginners-guide/)
+
+[Sitemap and User Flow Examples](https://speckyboy.com/collection-inspiring-sitemaps-user-flow-maps/)  
+
+[Sitemap and User Flow Guide](https://trydesignlab.com/blog/12-days-uxmas-ux-sitemap-user-flow/)  
 
 
 ### Assignment
