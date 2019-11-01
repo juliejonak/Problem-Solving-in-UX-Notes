@@ -9,17 +9,11 @@ At the end of this module, you should be able to:
 
 Table of Contents:  
 
-a. [](#) <br>  
-b. [](#) <br>  
-c. [](#) <br>  
-d. [](#) <br>  
-e. [](#) <br>  
-f. [](#) <br>  
-g. [](#) <br>  
-h. [](#) <br>  
-i. [](#) <br>  
-j. [](#) <br>  
-k. [](#) <br>  
+a. [Additional Resources](#Additional-Resources) <br>  
+b. [Assignment](#Assignment) <br>  
+c. [What is Information Architecture](#What-is-Information-Architecture) <br>  
+d. [Organizing Content](#Organizing-Content) <br>  
+e. [How to Create a Sitemap](#How-to-Create-a-Sitemap) <br>  
 
 <br>
 
@@ -40,8 +34,10 @@ k. [](#) <br>
 
 [Sitemap and User Flow Guide](https://trydesignlab.com/blog/12-days-uxmas-ux-sitemap-user-flow/)  
 
+<br>
 
-### Assignment
+
+## Assignment
 
 #### Instructions
 
@@ -59,9 +55,6 @@ k. [](#) <br>
  - [ ] Submit a link to the results page of your card sort.
  - [ ] Submit a PNG of your completed sitemap.
  - [ ] Submit a link or PDF of your summary.
-
-
-#### Other Cool Links
 
 
 <br>
@@ -174,4 +167,3 @@ Next, come up with some user tasks that you’d like users to accomplish on the 
 
 <br>
 <br>
-
