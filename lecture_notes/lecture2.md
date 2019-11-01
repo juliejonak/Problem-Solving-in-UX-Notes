@@ -1,5 +1,12 @@
 # Information Architecture
 
+At the end of this module, you should be able to:
+- articulate the meaning and purpose of information architecture in the product design cycle  
+- create a sitemap  
+- create a card sort study  
+
+<br>
+
 Table of Contents:  
 
 a. [](#) <br>  
