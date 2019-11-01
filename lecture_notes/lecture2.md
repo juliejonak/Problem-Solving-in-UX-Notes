@@ -88,7 +88,7 @@ use that system? How much could you save if it wasn’t so complicated to use?)
 <br>
 <br>
 
-## Organizing content
+## Organizing Content
 
 Designing a coherent, intuitive IA is a challenging process. Before we begin, we need to understand our users’ information-seeking needs and behaviors. 
 
@@ -117,6 +117,49 @@ To understand and build our IAs, we rely on card-sorting to keep track of discre
 Once we understand how users interpret our terminology and groupings, we progress to site mapping and content audits to logically present our product’s IA. Along the way, we can continue to ensure our IAs are usable by conducting evaluations of their efficacy.
 
 Building an IA from scratch or improving an existing one is an enormous undertaking. Not only does it require substantial efforts, but the stakes are also high because it’ll serve as the basis for the rest of your user experience. That said, with a strong understanding of the fundamentals, we can iterate through even the most convoluted systems and design an intuitive information architecture.
+
+<br>
+<br>
+
+## How to Create a Sitemap
+
+While a true information architect would have many deliverables that they can produce, as user experience designers we typically focus on sitemaps.
+
+Sitemaps are essentially diagrams of our content and are a tangible representation of our information architecture. They’re similar to our user flows, but they take into account context, content, as well as our users.
+
+To create a sitemap, we’ll follow this process:
+
+### Understand the context
+
+By this point, it should come as no surprise that we start by reviewing any UX work done up to this point. In particular, we’re interested in reviewing any user research, business objectives, user flows, and existing content. As we review this information, we’re trying to understand what the content needs are going to be for the organization, how they currently organize their content, and how our users expect the content to be organized.
+
+<br>
+
+### Organize the content with card-sorting
+
+Once you’ve reviewed everything and determined the current content ecosystem, you’re ready to begin developing a new IA for the product. To do that, you’ll want to try and categorize all of the existing content and planned content into broad groups. For example, if your company has a bunch of lightbulb products try grouping them into categories based on their size, lumens, wattage, or other criteria.
+
+After you have some groupings, you can perform a card-sorting exercise. Card-sorting is an exercise that helps us understand how to organize offerings so users know what you have and how to find it. In practice, this means getting a bunch of index cards or post-it notes and writing out all of the features or pages of your website and then having users group the cards as they see fit. This technique helps us understand our users’ point-of-view and how they would expect our website to be organized.
+
+To perform a card-sorting exercise, write your groupings on a bunch of index cards. Then, invite users and stakeholders to organize the cards as they see fit. After several iterations, patterns should begin to emerge. These patterns can now inform your site blueprint.
+
+It’s important to remember that card sorting is a tool to inform our efforts, so our site blueprint doesn’t need to be an exact match of our card sorting results. Instead, since we have the full picture of the project, we should be comfortable overruling these results when it makes sense.
+
+<br>
+
+### Create a sitemap
+
+While our card sorting helped us organize our content into distinct groups, our sitemap lets us connect the dots and describe the relationships between our features.
+
+There’s no one way to organize your sitemap, but this approach works well for any size project. To start, create an Excel document. Then, using your findings from the card-sorting exercise, create a row for each page your product will need. For each page, make sure to add details about the content that will live there, where it sits in the site’s hierarchy, unique features/design considerations, and any additional details that are relevant to you.
+
+<br>
+
+### User test your sitemap
+
+Finally, you’re ready to test your sitemap. To test it, write each page on an index card. Then on the bottom of each card, write out the links that exist on that page. 
+
+Next, come up with some user tasks that you’d like users to accomplish on the site. Finally, you can have users start at the first page in your hierarchy and you can test how they’d navigate to different pages to complete the task. This is a great way to see if your page labeling makes sense and if users can find the content they want.
 
 <br>
 <br>
