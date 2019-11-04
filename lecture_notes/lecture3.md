@@ -87,3 +87,32 @@ While perceived as extra work, sometimes that extra work up front testing big id
 <br>
 <br>
 
+## When to Use Paper Prototyping
+
+The best time for paper prototyping remains at the beginning of the product design process after user needs are understood. Early-stage ideation and conceptualization can be fulfilled through the creation of paper prototypes. Often, designers will find themselves creating sketches of interfaces on public whiteboards or similar. With paper prototyping, creating something the user can interact with is as simple as replicating those sketches on paper.
+
+Paper prototypes can also be created directly in a brainstorming session. Creating a paper prototype while interacting with other stakeholders is the perfect opportunity for near-instantaneous feedback. Once the paper prototype has been refined in a brainstorming session, you’ll be ready to test it with actual users.
+
+It’s important to remember that paper prototyping is best conducted early in the design process for optimal effectiveness.
+
+<br>
+<br>
+
+## How to Create a Paper Prototype
+
+Now that we understand what paper prototypes are best suited for, how do we actually create them? Here are a few tips to help you get started.
+
+1. Use cheap paper
+
+Printer paper or similar works best for this exercise. Remember, you want to enhance creativity, not restrict it.
+
+2. Mobile-first
+
+Starting with mobile will force you to focus on the most essential content. If you’re able to create a mobile experience, it’ll be much easier to scale it up to larger screen sizes later.
+
+3. One sketch per screen
+
+Paper prototyping and physical sketches are meant to be simple to view and understand. Remember to keep each screen (and interaction) as it’s own sketch. The sketches you create will likely become a prototype. You’ll want to ensure your users can focus on one screen at a time throughout their experience.
+
+<br>
+<br>
