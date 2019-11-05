@@ -32,7 +32,27 @@ k. [](#) <br>
 <br>
 
 ## Assignment
- 
+
+- [ ] Pick an action that a user might complete in Newsie that includes at least 5 different screens. Using pen and paper or InVision Freehand, sketch all 5 (or more) separate screens, and any supplementary screens (forms being filled in, etc.).
+
+- [ ] Write 8-12 questions that you’d like to ask a user to validate the usability of your screens.
+
+- [ ] Use images and InVision to create a prototype from your screens.
+
+- [ ] Share your prototype and a description of the depicted task in Slack.
+
+- [ ] Review and give feedback on at least 3 other prototypes.
+
+#### Stretch Goals
+
+Your company’s CEO wants to see how the project is coming along. They have a sales background, so they’re not familiar with UX or the Product Design Cycle. Explain to them the progress you’ve made so far, how paper prototyping fits into the Product Design Cycle, and the insights you’ve gained from paper prototyping.
+
+#### Submission
+- [ ] Submit an image of your sketches.
+- [ ] Submit a link or PDF of your questions.
+- [ ] Submit a link to your prototype.
+- [ ] Submit a link or PDF to the feedback that you gave to other students.
+
 
 <br>
 
@@ -113,6 +133,29 @@ Starting with mobile will force you to focus on the most essential content. If y
 3. One sketch per screen
 
 Paper prototyping and physical sketches are meant to be simple to view and understand. Remember to keep each screen (and interaction) as it’s own sketch. The sketches you create will likely become a prototype. You’ll want to ensure your users can focus on one screen at a time throughout their experience.
+
+<br>
+<br>
+
+## Paper Prototype Testing
+
+Now that we have our paper prototype, it’s time to test it with users. The question is, how do we test sketches with users? It’s actually quite simple.
+
+#### Be the ‘computer’
+
+To facilitate interactions within the prototype, one person will need to be the ‘computer.’ This means silently showing the screens to the participant, and moving through the screens as a user ‘clicks’ or ‘interacts’ on the prototype. If at all possible, the person acting as the ‘computer’ should not also be facilitating the session. Designating one person as the ‘computer’ will better simulate an automated system.
+
+
+#### Practice
+
+Playing the role of ‘computer’ and shuffling through screens is a difficult task. Almost as tricky as facilitating the session itself. Remember to practice your part before conducting a test.
+
+
+#### Follow best practices
+
+Try to test at least 5 users with your prototype and record the tests if possible. Remember to explain to your users what they’re interacting with and what to expect throughout the session ahead of time. Interacting with a paper prototype will likely be entirely foreign to your users, so be sure to explain why and how to interact with it.
+
+We’ll talk more about usability studies later in the course. There are often more formalities in that process. Paper prototyping can be pretty scrappy by comparison. It’s just meant as a way for you as a designer to get some feedback on your ideas.
 
 <br>
 <br>
