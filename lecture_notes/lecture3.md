@@ -10,15 +10,12 @@ Table of Contents:
 
 a. [Additional Resources](#Additional-Resources) <br>  
 b. [Assignment](#Assignment) <br>  
-c. [](#) <br>  
-d. [](#) <br>  
-e. [](#) <br>  
-f. [](#) <br>  
-g. [](#) <br>  
-h. [](#) <br>  
-i. [](#) <br>  
-j. [](#) <br>  
-k. [](#) <br>  
+c. [What is Paper Prototyping](#What-is-Paper-Prototyping) <br>  
+d. [Paper prototyping advantages](#Paper-prototyping-advantages) <br>  
+e. [Paper Prototyping Disadvantages](#Paper-Prototyping-Disadvantages) <br>  
+f. [When to Use Paper Prototyping](#When-to-Use-Paper-Prototyping) <br>  
+g. [How to Create a Paper Prototype](#How-to-Create-a-Paper-Prototype) <br>  
+h. [Paper Prototype Testing](#Paper-Prototype-Testing) <br>  
 
 <br>
 
@@ -27,13 +24,22 @@ k. [](#) <br>
 
 #### Pre-Class Videos
 
+[Paper Prototyping UXPT3 with Corey Nelson](https://youtu.be/05QFy7TPofU)  
+
+
 #### Other Cool Links
+
+[UXPin Paper Prototyping](https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/): the Practical Beginner's Guide
+
+[Paper Prototyping](https://alistapart.com/article/paperprototyping)
+
+[Mozilla Paper Prototype Case Study](https://www.nngroup.com/articles/mozilla-paper-prototype/): Nielsen-Norman Group article on using paper prototypes to make enhancements to the Mozilla home page.
 
 <br>
 
 ## Assignment
 
-- [ ] Pick an action that a user might complete in Newsie that includes at least 5 different screens. Using pen and paper or InVision Freehand, sketch all 5 (or more) separate screens, and any supplementary screens (forms being filled in, etc.).
+- [ ] Pick an action that a user might complete in Newsie that includes at least 5 different screens. Using pen and paper or InVision Freehand, sketch all 5 (or more) separate screens, and any supplementary screens (forms being filled in, etc.)
 
 - [ ] Write 8-12 questions that you’d like to ask a user to validate the usability of your screens.
 
