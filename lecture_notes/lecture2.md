@@ -56,6 +56,8 @@ e. [How to Create a Sitemap](#How-to-Create-a-Sitemap) <br>
  - [ ] Submit a PNG of your completed sitemap.
  - [ ] Submit a link or PDF of your summary.
 
+ [Rubric for grading.](https://docs.google.com/spreadsheets/d/1B4oh-j2kixlCT790zL5CtqmHq4fspF_kSjpIbEB7Y9g/edit?usp=sharing)
+
 
 <br>
 

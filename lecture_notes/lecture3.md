@@ -128,11 +128,13 @@ Printer paper or similar works best for this exercise. Remember, you want to enh
 
 2. Mobile-first
 
-Starting with mobile will force you to focus on the most essential content. If you’re able to create a mobile experience, it’ll be much easier to scale it up to larger screen sizes later.
+Starting with mobile will force you to focus on the _most essential_ content. If you’re able to create a mobile experience, it’ll be much easier to scale it up to larger screen sizes later.
 
 3. One sketch per screen
 
-Paper prototyping and physical sketches are meant to be simple to view and understand. Remember to keep each screen (and interaction) as it’s own sketch. The sketches you create will likely become a prototype. You’ll want to ensure your users can focus on one screen at a time throughout their experience.
+Paper prototyping and physical sketches are meant to be simple to view and understand. Remember to keep each screen (and interaction) as it’s own sketch. The sketches you create will likely become a prototype. You’ll want to ensure your users can focus on one screen at a time throughout their experience, and make it simple for you to have one interaction per screen, to avoid the need to explain.
+
+![Example Prototype](./images/Flutter_Prototype_Example.png "Example Prototype")
 
 <br>
 <br>
@@ -144,6 +146,8 @@ Now that we have our paper prototype, it’s time to test it with users. The que
 #### Be the ‘computer’
 
 To facilitate interactions within the prototype, one person will need to be the ‘computer.’ This means silently showing the screens to the participant, and moving through the screens as a user ‘clicks’ or ‘interacts’ on the prototype. If at all possible, the person acting as the ‘computer’ should not also be facilitating the session. Designating one person as the ‘computer’ will better simulate an automated system.
+
+This process walks through the user's anticipated experience without including the designer's bias. Even if this process shows a gap in the design, move through what was previously designed. It shows areas for improvement and where user confusion might arise.
 
 
 #### Practice
