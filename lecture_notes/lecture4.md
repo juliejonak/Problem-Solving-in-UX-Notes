@@ -177,3 +177,22 @@ Remember, this test is about understanding how a user interacts with your produc
 
 <br>
 <br>
+
+## Insights
+
+Once your test is complete, it’s time to gather your insights. 
+
+You’ll want to make sure that you have notes and/or recordings of the sessions. 
+
+Review the notes and/or recordings and begin to identify usage patterns and interesting behaviors and comments made throughout the process. 
+
+You’ll then want to share your findings with the rest of the folks on the product team. This includes teammates, stakeholders, developers, and other designers.
+
+The way that you report your data is ultimately up to you. 
+
+You may choose to create a slideshow presentation, create a google doc, or use any other method to present what you’ve uncovered. The sky is the limit. 
+
+The goal is to show what you’ve discovered in a compelling way that leads directly into gains in the product design process. With that being said, make sure you include recommendations, next steps, and inconclusive data that might require follow-up testing.
+
+<br>
+<br>
