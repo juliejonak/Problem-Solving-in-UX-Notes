@@ -194,5 +194,42 @@ You may choose to create a slideshow presentation, create a google doc, or use a
 
 The goal is to show what you’ve discovered in a compelling way that leads directly into gains in the product design process. With that being said, make sure you include recommendations, next steps, and inconclusive data that might require follow-up testing.
 
+![Example Guerilla Test Evaluation Table](../images/GuerillaTestEvaluation.png "Example Guerilla Test Evaluation Table")
+
+<br>
+
+A sample testing plan outline might look like so:
+
+<br>
+
+{App Name}
+
+`GUERILLA USABILITY TEST`: {User flow being tested}
+
+`PRODUCT UNDER TEST`
+{App being tested}
+
+`HYPOTHESIS`
+By doing ________ , users will find it easier and more efficient to ____________.
+
+`TEST OBJECTIVES`
+{The goal of testing this flow}
+
+`PARTICIPANTS`
+{The user demographics being tested}
+Friends
+Family
+Classmates
+
+
+`TEST TASKS`
+{User questions to ask during the test}
+
+- Where would you tap to begin the sign in process?
+- Enter your phone number.
+- Where would you tap to continue the sign-in process?
+- Where would you retrieve the sign-in code?
+- What would you expect to happen after you enter the sign in code?
+
 <br>
 <br>
