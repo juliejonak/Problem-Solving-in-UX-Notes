@@ -137,3 +137,27 @@ Keep in mind though, observing a users behavior and body language is always the 
 
 <br>
 <br>
+
+## What to Test
+
+Before conducting your test, it’s important that you decide _what_ you want to learn. 
+
+Although guerrilla usability testing is cheap and efficient, you still need to do a significant amount of planning beforehand. 
+
+First, you’ll want to understand what you want the user to do. For example, maybe you want them to sign up for an account or learn about your product. Most importantly, you’ll want to define your goal and write it down ahead of time.
+
+After you’ve decided on a goal, you’ll need to come up with tasks for your users to complete.
+
+<br>
+
+Here’s an example from UsabilityGeek:
+
+> “If you want to optimize your checkout experience, your task list might look something like this:
+
+Add an item to the cart Browse additional items Go to the checkout page Sign in Change the delivery address Confirm the transaction details Print the payment confirmation Locate the payment authorization in the email inbox”
+
+Your goal is to keep your test as focused as possible. Avoid testing extraneous features or functionality.
+
+<br>
+<br>
+
