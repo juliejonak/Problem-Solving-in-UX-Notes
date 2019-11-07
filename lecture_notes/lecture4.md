@@ -8,17 +8,13 @@ At the end of this module, you should be able to articulate the value of user te
 
 ## Table of Contents:  
 
-a. [](#) <br>  
-b. [](#) <br>  
-c. [](#) <br>  
-d. [](#) <br>  
-e. [](#) <br>  
-f. [](#) <br>  
-g. [](#) <br>  
-h. [](#) <br>  
-i. [](#) <br>  
-j. [](#) <br>  
-k. [](#) <br>  
+a. [Additional Resources](#Additional-Resources) <br>  
+b. [Assignment](#Assignment) <br>  
+c. [The Value of User Testing](#The-Value-of-User-Testing) <br>  
+d. [What is Guerilla Usability Testing](#What-is-Guerilla-Usability-Testing) <br>  
+e. [What to Test](#What-to-Test) <br>  
+f. [How to Test](#How-to-Test) <br>  
+g. [Insights](#Insights) <br>   
 
 <br>
 
