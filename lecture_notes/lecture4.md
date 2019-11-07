@@ -27,6 +27,10 @@ k. [](#) <br>
 
 #### Pre-Class Videos 
 
+[Guerilla Usability Testing (7 min)](https://youtu.be/3mkbaqEQM8w)
+
+[Guerilla Usability Testing UX9 with Branden Thornton](https://youtu.be/L6CBS4Q9yDA)
+
 [Guerilla Usability Testing UXPT3 with Corey Nelson]()
 
 #### Other Cool Links
@@ -65,3 +69,39 @@ After completing your guerrilla usability test, update your sketches to incorpor
 
 <br>
 <br>
+
+## The Value of User Testing
+
+As UX designers, we want to ensure that our users are happy and able to achieve their goals with our products. In other words, we want a high level of user satisfaction. 
+
+To ensure that our users are meeting their goals, we turn to usability testing. 
+
+Usability testing helps us understand both the successes and failures the user encounter while using our product. 
+
+User testing allows us to both create a product that our users really want, and stay ahead of our competition.
+
+A product that helps users achieve their goals keep users coming back for more. It’s a win-win situation.
+
+<br>
+
+For user testing to work within an organization, it needs to be a priority. 
+
+Stakeholders, project owners, and executives all need to be on board with the process. 
+
+If user testing is to succeed, it must not be an option. 
+
+If you, or somebody else, is already utilizing user testing, then you likely have a good set of evidence in order to keep the process going. If not, then it’s up to you as the UX designer to prove that value of usability testing. 
+
+Through the creation and testing of designs and prototypes, you’ll gain the experience and foundation you need to show decision-makers the positive impact that user testing can have.
+
+<br>
+
+When integrating user testing, it’s helpful to think of it as an objective, rather than a procedure. 
+
+If we focus on that perfect procedure for running usability tests, we’ll encounter more issues than needed. 
+
+Remember, perfect can be the enemy of great. You do not need the most polished prototype or design to run a user test.
+
+<br>
+<br>
+

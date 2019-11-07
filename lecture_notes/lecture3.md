@@ -24,6 +24,8 @@ h. [Paper Prototype Testing](#Paper-Prototype-Testing) <br>
 
 #### Pre-Class Videos
 
+[Paper Prototyping (8 min)](https://youtu.be/A-45KP4LtkA)
+
 [Paper Prototyping UXPT3 with Corey Nelson](https://youtu.be/05QFy7TPofU)  
 
 
