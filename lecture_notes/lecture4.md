@@ -105,3 +105,35 @@ Remember, perfect can be the enemy of great. You do not need the most polished p
 <br>
 <br>
 
+## What is Guerilla Usability Testing
+
+According to UsabilityGeek:
+
+> “guerrilla usability testing is a way to evaluate how effective an interface is by testing out its visual design, functionality and general message on its intended audience and capturing their responses.” 
+
+This method of user testing is one of the most straightforward and inexpensive methods to use when embarking on a user research project. 
+
+Guerrilla usability testing needs little more than a paper prototype and can be conducted nearly anywhere. This includes testing with coworkers, friends, and family members!
+
+<br>
+
+It’s best to perform guerrilla usability testing when you need quick and cheap testing. 
+
+This type of usability testing also lends itself well to ad-hoc recruitment. In other words, finding the best participants you can in the immediate vicinity. 
+
+Of course, when using ad-hoc participants, your results will be less accurate than if you were to use your target user base. 
+
+Guerrilla studies are very short, often between 10-15 minutes, and can have as few as 5 participants for meaningful feedback. 
+
+The fact that guerrilla usability testing is inexpensive, easy, and fast makes it one of the best ways to introduce user research at an organization with little to no experience with user testing.
+
+<br>
+
+To conduct a guerrilla usability test, you only need a prototype, a computer, a moderator (somebody to run the test), and somebody to observe and take notes. 
+
+If you’re not able to get a moderator and/or somebody to take notes, you could also record participants’ responses using a screen recorder. 
+
+Keep in mind though, observing a users behavior and body language is always the preferable way of conducting usability tests.
+
+<br>
+<br>
