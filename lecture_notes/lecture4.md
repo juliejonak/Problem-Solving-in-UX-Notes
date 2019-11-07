@@ -161,3 +161,19 @@ Your goal is to keep your test as focused as possible. Avoid testing extraneous 
 <br>
 <br>
 
+## How to Test
+
+You may choose to start your guerrilla usability study by walking up to a friend, coworker, or person at a coffee shop and asking them if they’d like to participate. You’ll want to explain what the test is, how it works, and how long you expect it to take.
+
+Because your goal is to understand user behavior, you’ll want to ask your participant to think out loud. If they are not thinking out loud throughout the study, you may need to prompt them to do so.
+
+Once you’ve explained the test, it’s time to get started. If you’re using a paper prototype, you’ll want to take a few minutes and make sure it’s prepared ahead of time. 
+
+Conversely, if you’re using a digital prototype, setup will be as easy as pulling out the device you’d like the user to test on.
+
+As a test facilitator, you’ll want to keep your own thoughts to a minimum. 
+
+Remember, this test is about understanding how a user interacts with your product. You aren’t selling the product or it’s features to your user. Once the test is complete, you may answer any questions that the user has.
+
+<br>
+<br>
